@@ -4,6 +4,7 @@ import java.lang.String;
 
 public class RecruiterEventInfo
 {
+    private int eventID;
     private String volunteerTitle;
     private String organization;
     private String location;
